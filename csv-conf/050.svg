@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1600"
+   height="900"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="050.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="799.42227"
+     inkscape:cy="248.57245"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     width="1600px"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-152.36218)">
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       x="197.16202"
+       y="326.07645"
+       id="text4799"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4801"
+         x="197.16202"
+         y="326.07645">pip3 install commasearch</tspan><tspan
+         sodipodi:role="line"
+         x="197.16202"
+         y="416.07645"
+         id="tspan4805">, --help</tspan><tspan
+         sodipodi:role="line"
+         x="197.16202"
+         y="506.07645"
+         id="tspan4813">, --index this.csv that.csv</tspan><tspan
+         sodipodi:role="line"
+         x="197.16202"
+         y="596.07648"
+         id="tspan4833">, another.csv # search</tspan><tspan
+         sodipodi:role="line"
+         x="197.16202"
+         y="686.07648"
+         id="tspan4815" /><tspan
+         sodipodi:role="line"
+         x="197.16202"
+         y="752.15448"
+         id="tspan4825"
+         style="font-size:48px"># Note well:</tspan><tspan
+         sodipodi:role="line"
+         x="197.16202"
+         y="812.15448"
+         id="tspan4819"
+         style="font-size:48px"># It's still slow and otherwise</tspan><tspan
+         sodipodi:role="line"
+         x="197.16202"
+         y="872.15448"
+         id="tspan4823"
+         style="font-size:48px"># unfit for production use.</tspan></text>
+  </g>
+</svg>
