@@ -1,0 +1,13 @@
+#!/bin/sh
+set -e
+OUTPUT=output
+
+mkdir -p "$OUTPUT"
+for original in *.*; do
+  if echo "$original" | grep .svg$ > /dev/null; then
+    bn=$(basename "$original" .svg)
+    inkscape -z -b white -e "$OUTPUT/$bn.png" "$bn.svg"
+  else
+    cp "$original" "$OUTPUT/$original"
+  fi
+done
