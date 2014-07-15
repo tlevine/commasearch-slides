@@ -1,5 +1,44 @@
-Introduction, approximately
+## First slide, approximately
 
 1. Before comma search, artisinal letterpress csv files
 2. searching data tables and how i got there
 3. theme throughout: do stupid things a lot of times
+
+## Introduction, approximately
+
+People talk about "data analysis". I don't really know what that means.
+But it seems to involve a CSV file. People try to figure out something
+fancy based on the file.
+
+Maybe they use a few CSV files.
+
+And maybe from different places.
+
+And they learn neat things.
+
+And we might have a few different people working on different analysis
+
+I've apparently done a lot of analysis, so I've looked at a few CSV files
+in my life. (show the slide with some CSVs) But there are a lot of CSVs
+that I haven't looked at.
+
+Like this many.
+
+And I'm not going to lbe able to look at them through this normal analysis
+paradigm that I just vaguely described.
+
+But I wanted to know what was in these CSV files, so I tried doing that.
+
+As I said before, my general approach is to do stupid things lots of times.
+
+I downloaded a bunch of CSV files from a bunch of "open data" sites.
+I don't really know what "open data" means, but these sites are sites that
+have a lot of spreadsheets organized in some systematic way.
+
+And then I did silly things with them.
+For example, I started out by looking at  this and this.
+
+Another one that people liked was...
+
+Here's another one that was popular, though it's not as strongly about
+the contents of files. I found this price list for Socrata...
